@@ -1,0 +1,32 @@
+# Created by .ignore support plugin (hsz.mobi)
+### Linux template
+*~
+
+# temporary files which can be created if a process still has a handle open of a deleted file
+.fuse_hidden*
+
+# KDE directory preferences
+.directory
+
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+# .nfs files are created when an open file is removed but is still being accessed
+.nfs*
+
+.gradle/
+.idea/
+build.gradle
+build/
+gradle/
+gradlew
+gradlew.bat
+.idea/.name
+.idea/compiler.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/misc.xml
+.idea/modules.xml
+.idea/modules/
+.idea/vcs.xml
+.idea/workspace.xml
